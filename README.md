@@ -8,7 +8,7 @@ First up create a file and tackle the fibonacci sequence:
 
 2. Now write another function fibsRec which solves the same problem recursively.
 
-3.Test both versions of your functions by passing in various lengths as arguments.
+3. Test both versions of your functions by passing in various lengths as arguments.
 
 Hopefully you were able to solve the problem with recursion! If you need some help understanding what’s going on with this function, there are some additional resources linked at the end of this page.
 
